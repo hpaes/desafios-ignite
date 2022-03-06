@@ -1,0 +1,3 @@
+[submodule "chapter-02/ignite-nodejs-desafio01"]
+	path = chapter-02/ignite-nodejs-desafio01
+	url = https://github.com/hpaes/ignite-nodejs-desafio01.git
